@@ -1,2 +1,1 @@
-# twang15.github.io
-multi-disciplinary collaboration
+A place where multi-disciplinary collaborations happen
